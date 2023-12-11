@@ -2,6 +2,7 @@
 ![Dashboard 1: Overview of Real Estate Offers by City](https://github.com/pjowsianka/Otodom-Real-Estate-Offers-October-2023---Data-Scraping-Cleaning-Power-BI-Visualization/assets/130370888/e75b5827-6b94-491b-9532-a898f9c3719b)
 
 *Dashboard 1: Overview of Real Estate Offers by City*
+*[Click to explore the interactive dashboard.](https://www.novypro.com/project/otodom-real-estate-offers-october-2023)*
 
 ## Overview
 This project involves the extraction, cleaning, and visualization of real estate data from Otodom for the month of October 2023. It encompasses the entire process, from web scraping to data cleaning and analysis, followed by visualization using Power BI. The project also includes various supplementary files and notebooks for comprehensive analysis.
@@ -27,6 +28,7 @@ The `OTD Analysis.pbix` file contains visualizations created using Power BI. It 
 ![image](https://github.com/pjowsianka/Otodom-Real-Estate-Offers-October-2023---Data-Scraping-Cleaning-Power-BI-Visualization/assets/130370888/6c38e7d1-c209-4671-9b7c-49bba7cc73fb)
 
 *Dashboard 2: City-based Property Analysis and Price Distribution*
+[Click to explore the interactive dashboard.](https://www.novypro.com/project/otodom-real-estate-offers-october-2023)
 
 
 
